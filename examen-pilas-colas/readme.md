@@ -12,7 +12,7 @@ La asignación se hizo por orden alfabético de apellido, según el registro ini
 
 | Rol | Apellidos y nombres | Código estudiantil | Respuesta individual |
 |-----|---------------------|--------------------|----------------------|
-| A | Berrio Macias, Mariana |  | [BerrioMariana-1](./individuales/A.MarianaBerrioMacias.png) |
+| A | Berrio Macias, Mariana | 1034920455 | [BerrioMariana-1](./individuales/A.MarianaBerrioMacias.png) |
 | B | Correa Torres, Kevin Andres | 1017256307 | [CorreaKevin-2](./individuales/B.KevincorreaTorres.png) |
 | C | Montoya Villegas, Miguel Angel | 1193574251 | [MontoyaMiguel-3](./individuales/C.MiguelMontoyaVillegas.png) |
 
